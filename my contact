@@ -1,0 +1,19 @@
+<html>
+<head>
+<title></title>
+<meta charset="utf-8">
+<body>
+<h3> My contact</h3>
+<form class="" action="inner.html" method="post">
+<label> your name</label>
+<input type="text" name="name" value""><br>
+<label> your email</label>
+<input type ="email" name="email" value=""><br>
+<label> password</label>
+<input type = "password" name="password" value="">
+<label> message</label>
+<Textarea name="name" rows="10" cols="10"></Textarea>
+</form>
+</body>
+</head>
+</html>
